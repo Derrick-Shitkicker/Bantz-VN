@@ -1,4 +1,4 @@
-﻿# This file is in the public domain. Feel free to modify it as a basis
+# This file is in the public domain. Feel free to modify it as a basis
 # for your own screens.
 
 # Note that many of these screens may be given additional arguments in the
@@ -182,6 +182,7 @@ screen main_menu():
     # The background of the main menu.
     window:
         style "mm_root"
+        image "Kranklis.png"
 
     # The main menu buttons.
     frame:
